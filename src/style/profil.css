@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.profil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.rigth{
+    text-align: right;
+}
+.left{
+    left: 2.5rem;
+    position: relative;
+}
+table{
+    width: 100%;
+}
+.starhips{
+    white-space: pre-line;
+}
